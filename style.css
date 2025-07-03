@@ -1,8 +1,16 @@
-
+h1{
+     margin: 10px;
+     padding: 10px;
+     text-align: center;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     text-decoration: underline;
+}
 div{
      background-color: burlywood;
      margin: 10px;
      padding: 10px;
+     font-size: 20px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      border-bottom:2px solid tomato;
      border-right:2px solid tomato;
      border-radius: 10px;
